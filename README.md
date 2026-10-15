@@ -1,4 +1,4 @@
-# 📧 GUIDE AVANCÉ DES PROTOCOLES DE MESSAGERIE ÉLECTRONIQUE
+# GUIDE AVANCÉ DES PROTOCOLES DE MESSAGERIE ÉLECTRONIQUE
 
 <img width="1248" height="832" alt="OIG4" src="https://github.com/user-attachments/assets/34947f90-c981-49dc-b094-e996c0826677" />
 
