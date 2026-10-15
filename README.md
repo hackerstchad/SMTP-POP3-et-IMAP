@@ -11,13 +11,8 @@
 **Langue :** Français  
 **Niveau :** Débutant à Expert  
 
----
 
-> **Note importante :** Ce document a été conçu à des fins éducatives, administratives et de référence technique. Toute utilisation des protocoles et commandes décrites doit respecter les lois en vigueur, les politiques de sécurité des organisations concernées et les bonnes pratiques éthiques.
-
----
-
-# 📑 TABLE DES MATIÈRES
+# TABLE DES MATIÈRES
 
 1. [Introduction générale](#introduction-générale)
 2. [Historique et créateurs](#historique-et-créateurs)
