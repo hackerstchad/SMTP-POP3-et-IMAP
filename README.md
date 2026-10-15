@@ -90,6 +90,9 @@ Avec la croissance d'ARPANET puis d'Internet, il est devenu nécessaire de stand
 
 ## SMTP - Simple Mail Transfer Protocol
 
+<img width="688" height="630" alt="Jon_Postel" src="https://github.com/user-attachments/assets/71655312-3635-420b-bfe1-211b0c3fd7ca" />
+
+
 - **Créateur principal :** Jonathan Bruce Postel
 - **Première RFC :** RFC 821 (août 1982)
 - **RFC actuelle :** RFC 5321 (octobre 2008)
