@@ -104,6 +104,9 @@ Jonathan Postel (1943-1998) était un informaticien américain, pionnier d'Inter
 
 ## POP - Post Office Protocol
 
+<img width="250" height="199" alt="Mark_Crispin_Miller" src="https://github.com/user-attachments/assets/b3c8d3ca-d145-46d6-ba57-a81caa99f266" />
+
+
 - **Créateur :** Mark Crispin (Université de Stanford)
 - **Première version :** POP1 (RFC 918, octobre 1984)
 - **POP2 :** RFC 937 (février 1985)
